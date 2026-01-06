@@ -103,7 +103,7 @@ Select the experiment pages and click Publish from the side-kick to push both th
 
 ### Use Case Examples {#use-case-examples}
 
-Presented below are several use case examples for experiment variants. Generally speaking, the basic worklflow will be similar to the one described above, with particular changes for each use case (like the number of challenger pages or metadata changes).
+Presented below are several use case examples for experiment variants. Generally speaking, the basic workflow will be similar to the one described above, with particular changes for each use case (like the number of challenger pages or metadata changes).
 
 #### Full Page Experiment {#full-page}
 
